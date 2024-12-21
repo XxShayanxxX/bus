@@ -1,0 +1,1 @@
+print("bus fair $20")
